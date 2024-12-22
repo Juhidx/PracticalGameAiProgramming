@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PGAP",
+			"Path": "..\\Source\\PGAP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PGAPEditor",
+			"Path": "..\\Source\\PGAPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

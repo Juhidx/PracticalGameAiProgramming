@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Engine Projects\\PracticalGameAiProgramming\\PGAP\\Source\\PGAP\\PGAP.Build.cs",
+		"F:\\Unreal Engine Projects\\PracticalGameAiProgramming\\PGAP\\Source\\PGAP.Target.cs",
+		"F:\\Unreal Engine Projects\\PracticalGameAiProgramming\\PGAP\\Source\\PGAPEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

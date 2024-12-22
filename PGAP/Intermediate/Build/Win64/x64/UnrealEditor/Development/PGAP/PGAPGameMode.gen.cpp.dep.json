@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\unrealeditor\\inc\\pgap\\uht\\pgapgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\x64\\pgapeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pgap\\definitions.pgap.h",
+            "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\source\\pgap\\pgapgamemode.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\unrealeditor\\inc\\pgap\\uht\\pgapgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

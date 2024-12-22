@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\source\\pgap\\pgap.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\x64\\pgapeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pgap\\definitions.pgap.h",
+            "f:\\unreal engine projects\\practicalgameaiprogramming\\pgap\\source\\pgap\\pgap.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

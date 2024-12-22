@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PGAP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\PGAPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAP.init.gen.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAPCharacter.gen.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAPGameMode.gen.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAP.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAPCharacter.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\PGAPGameMode.cpp.obj"
+"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\Default.rc2.res"
+/OUT:"F:\Unreal Engine Projects\PracticalGameAiProgramming\PGAP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PGAP\UnrealEditor-PGAP.lib"
